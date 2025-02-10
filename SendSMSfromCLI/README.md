@@ -179,3 +179,4 @@ This guide provides an in-depth exploration of sending SMS via CLI using Windows
 - [Hayes AT Command Reference](https://en.wikipedia.org/wiki/Hayes_command_set)
 - [Java Comm API](https://www.oracle.com/java/technologies/java-communications.html)
 - [MSCOMM32.OCX Documentation](https://support.microsoft.com/en-us)
+ 
