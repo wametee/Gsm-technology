@@ -1,21 +1,34 @@
 # GSM Technology: Modem
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Types of Modems](#types-of-modems)
-3. [Functions of Modems](#functions-of-modems)
-4. [Features of Modems](#features-of-modems)
-5. [Connections](#connections)
-6. [DTE and DCE](#dte-and-dce)
-7. [DCD (Data Carrier Detect)](#dcd-data-carrier-detect)
-8. [Handshaking](#handshaking)
-9. [RS-232 Standards](#rs-232-standards)
-10. [Duplex Modem](#duplex-modem)
-11. [Synchronous and Asynchronous Modems](#synchronous-and-asynchronous-modems)
-12. [Modulation Techniques](#modulation-techniques)
-13. [Modem States](#modem-states)
-14. [Connecting GPRS Modem](#connecting-gprs-modem)
-15. [Real World Scenarios](#real-world-scenarios)
+1. [Objectives](#objectives)
+2. [Introduction](#introduction)
+3. [Types of Modems](#types-of-modems)
+4. [Functions of Modems](#functions-of-modems)
+5. [Features of Modems](#features-of-modems)
+6. [Connections](#connections)
+7. [DTE and DCE](#dte-and-dce)
+8. [DCD (Data Carrier Detect)](#dcd-data-carrier-detect)
+9. [Handshaking](#handshaking)
+10. [RS-232 Standards](#rs-232-standards)
+11. [Duplex Modem](#duplex-modem)
+12. [Synchronous and Asynchronous Modems](#synchronous-and-asynchronous-modems)
+13. [Modulation Techniques](#modulation-techniques)
+14. [Modem States](#modem-states)
+15. [Connecting GPRS Modem](#connecting-gprs-modem)
+16. [Real World Scenarios](#real-world-scenarios)
+
+## Objectives
+- Understand the different types of modems and their specific uses.
+- Learn about the functions and features of modems.
+- Gain knowledge on modem connections and interfacing with DTE and DCE.
+- Explore the significance of DCD, handshaking, and RS-232 standards.
+- Distinguish between simplex, half-duplex, and full-duplex modems.
+- Compare synchronous and asynchronous modems.
+- Study various modulation techniques used in modems.
+- Identify the different states of a modem during operation.
+- Learn how to connect and configure a GPRS modem.
+- Explore real-world scenarios to understand practical applications of modems.
 
 ## Introduction
 A modem (modulator-demodulator) is a device that converts digital data from a computer or other device into an analog signal for transmission over telephone lines or other communication media, and vice versa. Modems are essential components in communication systems, enabling data transfer between digital devices and analog communication channels.
